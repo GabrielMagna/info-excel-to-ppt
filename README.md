@@ -61,3 +61,4 @@ Si deseas regenerar una ficha:
 - Modo “solo pendientes” desde el primer NO OK (automático).
 
 ## Ejemplo de plantilla PPT
+<img width="1250" height="702" alt="image" src="https://github.com/user-attachments/assets/4fd55ecd-072e-478e-833f-840a30b92afd" />
